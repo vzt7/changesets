@@ -1,5 +1,11 @@
 # @changesets/cli
 
+## 2.23.1
+
+### Patch Changes
+
+- [#843](https://github.com/changesets/changesets/pull/843) [`101b1cb`](https://github.com/changesets/changesets/commit/101b1cb7e45f23146ce764a892a9ba04ed545cc5) Thanks [@caohuilin](https://github.com/caohuilin)! - Fixed the printed filename in the verbose output of `changeset status`.
+
 ## 2.23.0
 
 ### Minor Changes
